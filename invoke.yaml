@@ -1,0 +1,26 @@
+token: ''
+
+start_id: 1
+
+proxy:
+  url: ''
+
+speeches:
+  - id: 1
+    text: Hello, my dear friend
+    options:
+      - reference: 2
+        text: Hello
+      - reference: 3
+        text: fuck you
+  - id: 3
+    text: and fuck you too.
+    options: []
+  - id: 2
+    text: nice to meet you
+    options:
+      - reference: 4
+        text: be here, please.
+  - id: 4
+    text: i love you
+    options: []

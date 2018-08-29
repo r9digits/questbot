@@ -1,0 +1,8 @@
+*
+!Pipfile
+!Pipfile.lock
+!setup.cfg
+!dialog_manager.py
+!tasks.py
+!utils.py
+!views.py
